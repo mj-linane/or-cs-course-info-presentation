@@ -1,23 +1,19 @@
 {
-  "name": "reveal.js",
-  "version": "3.8.0",
-  "description": "The HTML Presentation Framework",
-  "homepage": "http://revealjs.com",
-  "subdomain": "revealjs",
-  "main": "js/reveal.js",
+  "name": "ORRHS CS Course Info Presentation",
+  "description": "ORRHS Computer Science Course Information",
+  "version": "1.0.0",
   "scripts": {
     "test": "grunt test",
     "start": "grunt serve",
     "build": "grunt"
   },
   "author": {
-    "name": "Hakim El Hattab",
-    "email": "hakim.elhattab@gmail.com",
-    "web": "http://hakim.se"
+    "name": "MJ linane",
+    "email": "mjlinane@oldrochester.org"
   },
   "repository": {
     "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
+    "url": "https://github.com/mj-linane/orrhs-cs-course-info-presentation"
   },
   "engines": {
     "node": ">=9.0.0"
