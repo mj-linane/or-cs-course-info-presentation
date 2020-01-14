@@ -1,24 +1,13 @@
 {
-  "name": "reveal.js",
+  "name": "ORRHS CS Course Information Presentation",
   "version": "3.8.0",
-  "main": [
-    "js/reveal.js",
-    "css/reveal.css"
-  ],
-  "homepage": "http://revealjs.com",
+  "main": ["js/reveal.js", "css/reveal.css"],
   "license": "MIT",
-  "description": "The HTML Presentation Framework",
-  "authors": [
-    "Hakim El Hattab <hakim.elhattab@gmail.com>"
-  ],
+  "description": "ORRHS Computer Science Course Information",
+  "authors": ["MJ Linane <mjlinane@oldrochester.org>"],
   "repository": {
     "type": "git",
-    "url": "git://github.com/hakimel/reveal.js.git"
+    "url": "https://github.com/mj-linane/orrhs-cs-course-info-presentation"
   },
-  "ignore": [
-    "**/.*",
-    "node_modules",
-    "bower_components",
-    "test"
-  ]
+  "ignore": ["**/.*", "node_modules", "bower_components", "test"]
 }
